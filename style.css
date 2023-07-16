@@ -1,0 +1,934 @@
+.a1{
+    color: black;
+    text-decoration: none;
+    font-size: 120%;
+    text-align: center;
+   position: absolute;
+   left: 2%;
+   top: 1%;
+   height: 5vh;
+   padding-left: 0.5%;
+   padding-right: 0.5%;
+   padding-top: 1%;
+   position: sticky;
+   top: 80px;
+   display: inline-block;
+   transition: .4;
+
+   
+
+
+    
+
+}
+body{
+    height: 286vh;
+    
+}
+.a2{
+    color: black;
+    text-decoration: none;
+    font-size: 150%;
+    padding-top: 0.5%;
+    width: 6%;
+    height: 3%;
+    display: block;
+    text-align: center;
+    position: absolute;
+    left: 80%;
+    top: 2%;
+    display: inline-block;
+
+
+
+
+}
+.a3{
+    color: black;
+    text-decoration: none;
+    font-size: 150%;
+    padding-top: 0.5%;
+    width: 6%;
+    height: 3%;
+    display: block;
+    text-align: center;
+    position: absolute;
+    left: 85%;
+    top: 2%;
+    display: inline-block;
+
+}
+.a4{
+    color: black;
+    text-decoration: none;
+    font-size: 150%;
+    padding-top: 0.5%;
+    width: 6%;
+    height: 3%;
+    display: block;
+    text-align: center;
+    position: absolute;
+    left: 90%;
+    top: 2%;
+    display: inline-block;
+}
+.a1:hover{
+    background-color: rgba(169, 169, 169, 0.581);
+    transform: scale(1.1);
+    transition: .4;
+
+}
+.a2:hover{
+    background-color: rgba(169, 169, 169, 0.581);
+    transform: scale(1.1);
+    transition: .4;
+}
+.a3:hover{
+    background-color: rgba(169, 169, 169, 0.581);
+    transform: scale(1.1);
+    transition: .4;
+}
+.a4:hover{
+    background-color: rgba(169, 169, 169, 0.581);
+    transform: scale(1.1);
+    transition: .4;
+}
+.div1{
+    height: 6vh;
+    width: 100%;
+   
+   
+}
+    
+.img1{
+    width: 100%;
+    background-size: contain;
+    margin-top: 1.5%;
+}
+#p1{
+    color: rgb(83, 81, 81);
+    font-size: 400%;
+    position: absolute;
+    top: 65%;
+    left: 3%;
+
+}
+#p2{
+    font-size: 250%;
+    position: absolute;
+    left: 60%;
+}
+#p3{
+    font-size: 180%;
+    position: absolute;
+    left: 60.5%;
+    top: 90%;
+}
+#p4{
+    font-size: 125%;
+    position: absolute;
+    left: 51.5%;
+    top: 95%;
+    
+    width: 34%;
+    display: block;
+    
+}
+#p5{
+    font-size: 120%;
+    position: absolute;
+    left: 51.5%;
+    top: 115%;
+   
+   color:rgba(128, 128, 128, 0.922);
+   font-weight: bold;
+   margin-top: 0.5%;
+   width: 20%;
+   
+   
+}
+#p6{
+    font-size: 125%;
+    position: absolute;
+    left: 51.5%;
+    top: 97.5%;
+    
+    width: 36%;
+    display: block;
+}
+#p7{
+    font-size: 125%;
+    position: absolute;
+    left: 51.5%;
+    top: 100%;
+    
+    width: 36%;
+    display: block;
+}
+#p8{
+    font-size: 125%;;
+    position: absolute;
+    left: 51.5%;
+    top: 102.5%;
+    
+    width: 36%;
+    display: block;
+}
+#p9{
+    font-size: 125%;
+    position: absolute;
+    left: 51.5%;
+    top: 105%;
+    
+    width: 36%;
+    display: block;
+}
+#p10{
+    font-size: 125%;
+    position: absolute;
+    left: 51.5%;
+    top: 107.5%;
+    
+    width: 36%;
+    display: block;
+}
+#p11{
+    font-size: 125%;
+    position: absolute;
+    left: 51.5%;
+    top:110%;
+    
+    width: 36%;
+    display: block;
+}
+.img2{
+    position: absolute;
+    left: 10%;
+    height: 60vh;
+    opacity: 0.7;
+    display: inline-block;
+}
+
+.h1{
+   margin-top: 49%;
+   box-shadow:  1px;
+   width: 117vh;
+   opacity: 0.3;
+  
+}
+#p12{
+    font-size: 200%;
+    position: absolute;
+    top: 155%;
+    left: 25%;
+    font-weight: bold;
+
+}
+#p13{
+    font-size: 150%;
+    position: absolute;
+    top: 163%;
+    left: 22%;
+}
+#p14{
+    font-size: 100%;
+    position: absolute;
+    top: 168%;
+    left: 22%; 
+}
+#p15{
+    font-size: 150%;
+    position: absolute;
+    top: 175%;
+    left: 22%;
+}
+#p16{
+    font-size: 100%;
+    position: absolute;
+    top: 180%;
+    left: 22%;  
+}
+#p17{
+    font-size: 150%;
+    position: absolute;
+    top: 186%;
+    left: 22%;
+}
+#p18{
+    font-size: 100%;
+    position: absolute;
+    top: 191%;
+    left: 22%;  
+}
+#p19{
+    font-size: 150%;
+    position: absolute;
+    top: 196%;
+    left: 22%;
+}
+#p20{
+    font-size: 100%;
+    position: absolute;
+    top: 201%;
+    left: 22%;   
+}
+#p21{
+    font-size: 150%;
+    position: absolute;
+    top: 206%;
+    left: 22%;
+}
+#p22{
+    font-size: 100%;
+    position: absolute;
+    top: 211%;
+    left: 22%;   
+}
+.img3{
+    position: absolute;
+    left: 58%;
+    top: 155%;
+    opacity: 0.8;
+    
+
+}
+#p23{
+    font-size: 200%;
+    position: absolute;
+    top: 227%;
+    left: 22%; 
+    font-weight: bold;
+}
+#p24{
+    
+    position: absolute;
+    top: 235.5%;
+    left: 22%; 
+    
+}
+#p25{
+    
+    position: absolute;
+    top: 238%;
+    left: 22%; 
+    
+    
+}
+.in1{
+    position: absolute;
+    left: 22%;
+    top: 244%;
+    border: 0% ;
+    border-style: none;
+    border-bottom-style: ridge;
+    opacity: 0.8;
+    width: 64%;
+    height: 4.5vh;
+    padding-left: 0.5%;
+    font-size: 120%;
+}.in2{
+    position: absolute;
+    left: 22%;
+    top: 250%;
+    border: 0% ;
+    border-style: none;
+    border-bottom-style: ridge;
+    opacity: 0.8;
+    width: 64%;
+    height: 4.5vh;
+    padding-left: 0.5%;
+    padding-right: 1;
+    font-size: 120%;
+}
+.in3{
+    position: absolute;
+    left: 22%;
+    top: 256%;
+    border: 0% ;
+    border-style: none;
+    border-bottom-style: ridge;
+    opacity: 0.8;
+    width: 64%;
+    height: 4.5vh;
+    padding-left: 0.5%;
+    font-size: 120%;
+
+    
+}
+.in4{
+    position: absolute;
+    left: 22%;
+    top: 261%;
+    border: 0% ;
+    border-style: none;
+    border-bottom-style: ridge;
+    opacity: 0.8;
+    width: 64%;
+    height: 4.5vh;
+    padding-left: 0.5%;
+    font-size: 120%;
+
+    
+}
+.in5{
+    position: absolute;
+    left: 22%;
+    top: 269%;
+    border: 0% ;
+    border-style: none;
+    
+    opacity: 0.8;
+    width: 10%;
+    height: 4.5vh;
+    padding-left: 0.5%;
+    font-size: 120%;
+    font-weight: bold;
+    transition: .3;
+
+    
+}
+.in5:hover{
+    background-color: darkgrey;
+    transition: .4;
+
+}
+
+#p26{
+    position: absolute;
+    text-align: center;
+    top: 280%;
+    width: 100%;
+    height: 6vh;
+    background-color: rgba(220, 220, 220, 0.349);
+    display: block;
+    padding-top: 2.5%;
+    font-size: 110%;
+    font-weight: bold;
+
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+           
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    /* div{
+        background-color: rgb(194, 194, 194);
+        width: 80%;
+        height: 70vh;
+        border-radius: 10px;
+        position: relative;
+        overflow: hidden;
+        border: 4px solid;
+        border-color: rgb(255, 255, 255);
+        transition: .3s;
+    }
+    .img{
+        width: 30%;
+        height: 30vh;
+        position: absolute;
+        left: 0.5%;
+        top: 55%;
+       transform: rotate(10deg) translateY(80px);
+       transition: .4s;
+       border-radius: 15px;
+       
+       
+       
+    
+    }
+    
+    
+    
+    .yo:hover img{
+        
+        transform: rotate(0deg);
+    }
+    .yo:hover{
+        border-color: green;
+    } */
+    /* مشروع */
+    
+    /* .yosef{
+        background :line-griden(to right , rgba(245, 4, 120, 0.615), rgba(0, 0, 255, 0.564) );
+        width: 100%;
+        height: 100vh;
+        
+        
+    }
+    body{
+        background-image: url(imge.me/img.jpg);
+        opacity:1;
+    }
+    .yosef1{
+        background:linear-gradient(to right , rgba(245, 4, 120, 0.615), rgba(0, 0, 255, 0.564) );
+        height: 8vh;
+    }
+    .p1{
+        font-size: 200%;
+        width: 10%;
+        position: absolute;
+        top: 0.2%;
+        color: white;
+        font-weight: bold;
+        left: 2%;
+    
+    }
+    .b1{
+        border-radius: 4px;
+        width: 5%;
+        height: 4vh;
+        position: absolute;
+        left: 20%;
+        top: 3.1%;
+        background-color: rgba(240, 248, 255, 0);
+        border-color: rgba(0, 0, 0, 0.653);
+        transition: .4;
+        color: white;
+        font-weight: bold;
+        font-size: 120%;
+    
+    }
+    .b2{
+        border-radius: 4px;
+        width: 8%;
+        height: 4vh;
+        position: absolute;
+        left: 26%;
+        top: 3.1%;
+        background-color: rgba(240, 248, 255, 0);
+        border-color: rgb(0, 0, 0);
+        transition: .4;
+        color: white;
+        font-weight: bold;
+        font-size: 120%;
+        
+    
+    }
+    .b3{
+        border-radius: 4px;
+        width: 5%;
+        height: 4vh;
+        position: absolute;
+        left: 35%;
+        top: 3.1%;
+        background-color: rgba(240, 248, 255, 0);
+        border-color: rgb(0, 0, 0);
+        transition: .4;
+        color: white;
+        font-weight: bold;
+        font-size: 120%;
+    
+    }
+    .b4{
+        border-radius: 4px;
+        width: 5%;
+        height: 4vh;
+        position: absolute;
+        left: 41%;
+        top: 3.1%;
+        background-color: rgba(240, 248, 255, 0);
+        border-color: rgb(0, 0, 0);
+        transition: .4;
+        color: white;
+        font-weight: bold;
+        font-size: 120%;
+    
+    }
+    .b5{
+        border-radius: 4px;
+        width: 6%;
+        height: 4vh;
+        position: absolute;
+        left: 47.2%;
+        top: 3.1%;
+        background-color: rgba(240, 248, 255, 0);
+        border-color: rgb(0, 0, 0);
+        transition: .4;
+        color: white;
+        font-weight: bold;
+        font-size: 120%;
+    
+    }
+    .b1:hover{
+        background-color:blue;
+        border-color: rgba(0, 0, 0, 0);
+    }
+    .b2:hover{
+        background-color: blue;
+        border-color: rgba(240, 248, 255, 0);
+    }
+    .b3:hover{
+        background-color: blue;
+        border-color: rgba(240, 248, 255, 0);
+    }
+    .b4:hover{
+        background-color: blue;
+        border-color: rgba(240, 248, 255, 0);
+    }
+    .b5:hover{
+        background-color: blue;
+        border-color: rgba(240, 248, 255, 0);
+    }
+    .p2{
+        font-size: 140%;
+        color: white;
+        margin-left: 5%;
+        margin-top: 15%;
+        margin-bottom: 0%;
+    }
+    .p3{
+        font-size: 500%;
+        margin-left: 5%;
+        margin-top: 0%;
+        color: white;
+        font-weight: bold;
+        margin-bottom: 0%;
+        height: 18vh;
+        
+    }
+    .p4{
+        font-weight: bold;
+        color: white;
+        margin-left: 5%;
+        margin-top: 0%;
+        font-size: 150%;
+    }
+    
+    
+    
+    
+    مشروع  */
+    
+    /* 
+    body{
+        background-color:rgb(16, 166, 204);
+        height: 95vh;
+       }
+       .yosef{
+           background-color: rgb(1, 222, 238);
+           
+           padding: 10%;
+           padding-bottom: 55%;
+           
+           margin-left: 18%;
+           margin-right: 20%;
+           margin-top: 2%;
+           margin-bottom: 0%;
+           border-radius: 7%;
+           position: relative;
+           width: 50%;
+           
+           
+       
+       
+       }
+       .yosef1{
+           background-color: rgb(196, 248, 255);
+          position: absolute;
+          left: 4%;
+          right: 46%;
+          top: 7%;
+          bottom: 4%;
+          border-radius: 10px;
+           
+       }
+       .p{
+           font-size: 300%;
+           font-weight: bold;
+           margin-left: 8%;
+       }
+       .in{
+           
+           border-radius: 20px;
+           margin-left: 1%;
+           font-size: 130%;
+           padding-left: 2%;
+           border-color: rgb(195, 195, 195);
+           color:rgb(195, 195, 195) ;
+           padding-right: 10%;
+           padding-bottom: 1%;
+           padding-top: 1%;
+           margin-left: 8%;
+       
+       
+           
+       }
+       .in1{
+           border-radius: 20px;
+           margin-left: 1%;
+           font-size: 130%;
+           padding-left: 2%;
+           border-color: rgb(195, 195, 195);
+           color:rgb(195, 195, 195) ;
+           padding-right: 0%;
+           padding-bottom: 1%;
+           padding-top: 1%;
+           margin-left: 8%;
+           margin-top: 4%;
+           width: 54%;
+       }
+       .la{
+           position: absolute;
+           top: 32%;
+           right: 75%;
+           font-size: 120%;
+       
+       }
+       .in2{
+       position: absolute;
+       top: 32%;
+       right: 95%;
+       
+       
+       }
+       .p1{
+           font-size: 110%;
+           position: absolute;
+           top: 35%;
+           left: 5%;
+           color: rgba(32, 32, 224, 0.89);
+       }
+       .in3{
+           width: 54%;
+           margin-top: 30%;
+           border-radius: 13px;
+           margin-left: 19%;
+           font-size: 130%;
+           color: aliceblue;
+           background-color: rgb(49, 126, 189);
+           padding-top: 1%;
+           padding-bottom: 1%;
+           transition: .4s;
+           border-color: rgb(196, 248, 255);;
+       }
+       .in3:hover{
+           
+           background-color:rgb(209, 213, 218) ;
+           
+       }
+       .in4{
+           width: 54%;
+           margin-top: 5%;
+           border-radius: 13px;
+           margin-left: 19%;
+           font-size: 130%;
+           color: palevioletred;
+           background-color: aliceblue;
+           padding-top: 1%;
+           padding-bottom: 1%;
+           transition: .4s;
+           border-color: rgb(196, 248, 255);
+       }
+       .p2{
+           font-weight: bold;
+           position: absolute;
+           left: 45%;
+           top: 64%;
+       }
+       
+       
+       .in5{
+           width: 54%;
+           margin-top: 25%;
+           border-radius: 13px;
+           margin-left: 19%;
+           font-size: 130%;
+           color: rgb(0, 9, 0);
+           background-color: rgb(196, 248, 255);
+           padding-top: 1%;
+           padding-bottom: 1%;
+           transition: .4s;
+           border-color: rgb(36, 11, 227);}
+       .in6{
+           width: 54%;
+           margin-top: 5%;
+           border-radius: 13px;
+           margin-left: 19%;
+           font-size: 130%;
+           color: rgb(0, 9, 0);
+           background-color: rgb(196, 248, 255);
+           padding-top: 1%;
+           padding-bottom: 1%;
+           transition: .4s;
+           border-color: rgb(36, 11, 227);
+           
+       }
+       .img{
+           width: 5%;
+           position: absolute;
+           left: 21%;
+           bottom: 16%;
+       
+       }
+       .img1{
+        width: 5%;
+           position: absolute;
+           left: 21%;
+           bottom: 23.5%;
+           border-radius: 13px;
+       }
+            */
+    
+    
